@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Raphaël Onana
-- 👀 Have interest in Artificial Intelligence and Machine Learning as well as mobile apps (still to learn..) & web development
+- 👀 Interest in Artificial Intelligence and Machine Learning as well as mobile apps (still to learn..) & web development
 - 🌱 Currently enrolled in the BS Computer Science @Carleton University
-- 💞️ Maths & stats
+- 💞️ Maths & stats, nature
 - 📫 Would like to reach me: onanaraphaelnathan@gmail.com
 
 <!---
