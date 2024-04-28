@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raphaël Onana</h1>
+<h1 align="center">Glad to see you here! 👋 I'm Raphaël Onana</h1>
 <h3 align="center">A passionate Student Software Developer at Carleton University</h3>
 
 <a align="left" href="https://nathonana.com/"> <img src="https://github.com/rapha-pro/rapha-pro/blob/7f3086bf95063fee5764589f918e4317abcc57b9/background.png" > </a>
