@@ -1,5 +1,6 @@
-<h1 align="center">Glad to see you here! 👋 I'm Raphaël Onana</h1>
-<h3 align="center">A passionate Student Software Developer at Carleton University</h3>
+<h1 align="center">Welcome, Glad to see you here! 🎉 I'm Raphaël Onana</h1>
+<h3 align="center">Student Software Engineer</h3>
+<p align="center">Internships: Ford Motor Company</p>
 
 <a align="left" href="https://nathonana.com/"> <img src="https://github.com/rapha-pro/rapha-pro/blob/7f3086bf95063fee5764589f918e4317abcc57b9/background.png" > </a>
 
@@ -11,6 +12,9 @@
 
 <img align="right" width="500" alt="coding" src="https://github.com/rapha-pro/rapha-pro/blob/87ce6588128cb47173078b574f1974a8be5f78a7/programming.gif" />
 
+- #### Professional Experience:
+    - *Software Engineer in Test Automation at Ford Motor Company (May - Dec 2024)*
+  
 - Currently enrolled in the BS Computer Science at **Carleton University**
 
 - 🌱 I’m currently learning **AWS, Flutter**
