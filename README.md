@@ -12,9 +12,11 @@
 
 <img align="right" width="500" alt="coding" src="https://github.com/rapha-pro/rapha-pro/blob/87ce6588128cb47173078b574f1974a8be5f78a7/programming.gif" />
 
+<br/>
+
 ## Professional Experience:
-     - *Software Designer at **Caterpillar Inc** (Jan - Apr 2025)*
-    - *Software Engineer in Test Automation at **Ford Motor Company** (May - Dec 2024)*
+- *Software Designer at **Caterpillar Inc** (Jan - Apr 2025)*
+- *Software Engineer in Test Automation at **Ford Motor Company** (May - Dec 2024)*
  
 <br>
 
