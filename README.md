@@ -23,7 +23,7 @@
   ### Education
 - Currently enrolled in the BS Computer Science at **Carleton University**
 
-- 🌱 I’m currently learning **AWS, Flutter**
+- 🌱 I’m currently learning **Containerization and Machine Learning**
 
 - 👯 I’m looking to collaborate on **any Web or mobile development project**
 
