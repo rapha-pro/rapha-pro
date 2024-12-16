@@ -22,7 +22,7 @@
 <br>
 
   ### Education
-- Currently enrolled in the BS Computer Science at **Carleton University** | 3rd Year
+- Currently enrolled in the BS Computer Science at **Carleton University** | **3rd** Year
 
 - 🌱 I’m currently learning **Containerization and Machine Learning**
 
