@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, Glad to see you here! 🙂 I'm Raphaël Onana</h1>
-<h6 align="center">Am I getting Hired?</h6>
+<h6 align="center">Hiring? you found it!</h6>
 <h3 align="center">Software Engineer</h3>
 <p align="center">Internships: Ford Motor, Caterpillar Inc </p>
 
@@ -57,4 +57,4 @@
 
 ### My Github Contributions
 ![Snake animation](https://github.com/rapha-pro/rapha-pro/blob/output/github-contribution-grid-snake.svg)
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/rapha-pro/rapha-pro/blob/output/github-contribution-grid-snake-dark.svg)
