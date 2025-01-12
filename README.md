@@ -1,5 +1,5 @@
 <h1 align="center">Welcome, Glad to see you here! 🙂 I'm Raphaël Onana</h1>
-<h6 align="center">Hiring? you found it!</h6>
+<h6 align="center">Hiring? you found Me!</h6>
 <h3 align="center">Software Engineer</h3>
 <p align="center">Internships: Ford Motor, Caterpillar Inc </p>
 
