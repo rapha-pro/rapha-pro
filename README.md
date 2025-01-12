@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, Glad to see you here! 🙂 I'm Raphaël Onana</h1>
+<h1 align="center">Welcome! Glad to see you here. 🙂 I'm Raphaël Onana</h1>
 
 <div display="flex">
  <div align="right"> <img src="https://komarev.com/ghpvc/?username=rapha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="rapha-pro" /> </div>
