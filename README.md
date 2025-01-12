@@ -58,3 +58,6 @@
 ### My Github Contributions
 ![Snake animation](https://github.com/rapha-pro/rapha-pro/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/rapha-pro/rapha-pro/blob/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/rapha-pro/rapha-pro/output/snake.svg)
+
+
