@@ -17,7 +17,7 @@
 
 ## Professional Experience:
 - *Software Designer at **Caterpillar Inc** (Jan - Apr 2025)*
-- *Software Engineer in Test Automation at **Ford Motor Company** (May - Dec 2024)*
+- *Test Automation at **Ford Motor Company** (May - Dec 2024)*
  
 <br>
 
