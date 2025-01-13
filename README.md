@@ -51,7 +51,7 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 
 - 📄 Know more about my experiences [https://nathonana.com/](https://nathonana.com/)
 
-- ⚡ Hobbies **piano, soccer, tennis, cycling,**
+- ⚡ Hobbies: **piano, soccer, tennis, cycling,**
 
 <br />
 
