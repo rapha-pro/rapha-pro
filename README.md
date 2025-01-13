@@ -44,7 +44,7 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 
 - 👯 Willing to collaborate on **Web or mobile development project**
 
-- 🤝 My Favorite Fields in CS (in order of priority)
+- 🤝 My Favorite Fields in CS
   - **AI/ML, DevOps & Cloud, Web & Mobile development**
 
 - 💬 Also Like Maths: **Calculus, Statistics, Linear Algebra**
