@@ -42,19 +42,16 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 
 - 🌱 I’m currently learning **Containerization with Docker**
 
-- 👯 I’m looking to collaborate on **any Web or mobile development project**
+- 👯 Willing to collaborate on **Web or mobile development project**
 
-- 🤝 Passion in **AI/ML, DevOps & Cloud, Web & Mobile development**
+- 🤝 My Favorite Fields in CS (in order of priority)
+  - **AI/ML, DevOps & Cloud, Web & Mobile development**
 
-- 👨‍💻 All of my projects are available at [https://nathonana.com/](https://nathonana.com/)
+- 💬 Also Like Maths: **Calculus, Statistics, Linear Algebra**
 
-- 💬 Ask me about **Calculus, Statistics, python, c++**
+- 📄 Know more about my experiences [https://nathonana.com/](https://nathonana.com/)
 
-- 📫 How to reach me **onanaraphaelnathan@gmail.com**
-
-- 📄 Know about my experiences [https://nathonana.com/](https://nathonana.com/)
-
-- ⚡ Hobies **soccer, piano, cycling**
+- ⚡ Hobbies **piano, soccer, tennis, cycling,**
 
 <br />
 
