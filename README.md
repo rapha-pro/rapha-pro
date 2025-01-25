@@ -63,10 +63,10 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <hr />
 
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 
-#### 🏆 GitHub Trophies
+### 🏆 Trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rapha-pro" alt="rapha-pro" /></a> </p>
 
 <!--<p align="left"> <a href="https://twitter.com/rapha_pro_" target="blank"><img src="https://img.shields.io/twitter/follow/rapha_pro_?logo=twitter&style=for-the-badge" alt="rapha_pro_" /></a> </p> -->
