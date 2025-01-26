@@ -3,7 +3,7 @@
 <!--------------- INTRO ------------>
 <div align="flex">
  <div align="right"> <img src="https://komarev.com/ghpvc/?username=rapha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="rapha-pro" /> </div>
- <h3 align="center">Engineering and Automation</h3>
+ <h3 align="center">Software Engineer</h3>
 </div>
  <h6 align="center">Hiring? you found Me!</h6>
 
