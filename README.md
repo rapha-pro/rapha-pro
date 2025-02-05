@@ -20,8 +20,8 @@
 
 # I'm Raphaël Onana
 <p>
- A passionate Software Engineer with hands-on experience through internships at Ford Motor Company, where I worked on test automation and CI/CD pipelines, and at Caterpillar Inc., where I contributed to embedded software development for autonomous drilling systems. I’m passionate about cloud technologies, software development, and solving real-world problems through technology. You can find more about my work on my website. Feel free to check out my repositories to see the projects I’ve been working on!
-I'm also a 3rd-year student studying Computer Science and Maths, focusing on Artificial Intelligence and Machine Learning at Carleton Univerity.
+ A passionate Software Engineer with hands-on experience through internships at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software Issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Passionate about cloud technologies, AI/ML, software development, and solving real-world problems through technology. You can find out about me on <a href="https://nathonana.com/">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
+Bachelor's student at Carleton University studying Computer Science and Math, focusing on Artificial Intelligence and Machine Learning.
 </p>
 
 
@@ -85,3 +85,4 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 #### Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelonana) [![](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rapha_pro_) 
 
+[my_website]: https://nathonana.com/
