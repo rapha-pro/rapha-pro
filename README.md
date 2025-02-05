@@ -40,12 +40,10 @@ I'm also a 3rd-year student studying Computer Science and Maths, focusing on Art
 ### Education
 - Currently enrolled in the BS Computer Science at **Carleton University** | **3rd** Year
 
-- 🌱 I’m currently learning **Containerization with Docker**
-
 - 👯 Willing to collaborate on **Web or mobile development project**
 
 - 🤝 My Favorite Fields in CS
-  - **AI/ML, DevOps & Cloud, Web & Mobile development**
+  - **AI/ML, Data Science, DevOps & Cloud, Web & Mobile development**
 
 - 💬 Also Like Maths: **Calculus, Statistics, Linear Algebra**
 
