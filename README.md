@@ -32,7 +32,7 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 
 ## Professional Experience:
 - *Software Designer at **Caterpillar Inc** (Jan - Apr 2025)*
-- *Test Automation at **Ford Motor Company** (May - Dec 2024)*
+- *Test Automation Engineer at **Ford Motor Company** (May - Dec 2024)*
  
 
 <img align="right" width="500" alt="coding" src="https://github.com/rapha-pro/rapha-pro/blob/87ce6588128cb47173078b574f1974a8be5f78a7/programming.gif" />
