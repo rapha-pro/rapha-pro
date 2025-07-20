@@ -39,7 +39,7 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 
 ### Education
 - Currently enrolled in the BS Computer Science at **Carleton University** | **3rd** Year
-- 
+
 - Fields of interests
   - **AI/ML, Data Science, DevOps & Cloud, Web & Mobile development, maths & physics**
 
