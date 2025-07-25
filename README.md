@@ -43,9 +43,9 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 - Fields of interests
   - **AI/ML, Data Science, DevOps & Cloud, Web & Mobile development, maths & physics**
 
-- 💬 Also Like Maths: **Calculus, Statistics, Linear Algebra**
+- Further interests: **Calculus, Statistics, Linear Algebra**
 
-- 📄 Know more about my experiences [https://nathonana.com/](https://nathonana.com/)
+- Know more about my experiences [https://nathonana.com/](https://nathonana.com/)
 
 - ⚡ Hobbies: **piano, soccer, tennis, cycling,**
 
