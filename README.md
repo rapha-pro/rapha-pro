@@ -3,7 +3,7 @@
 <!--------------- INTRO ------------>
 <div align="flex">
  <div align="right"> <img src="https://komarev.com/ghpvc/?username=rapha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="rapha-pro" /> </div>
- <h3 align="center">Engineering Student</h3>
+ <!-- <h3 align="center">Engineering Student</h3> -->
 </div>
  <h6 align="center">Hiring? you found Me!</h6>
 
@@ -20,7 +20,7 @@
 
 # I'm Raphaël Onana
 <p>
- A passionate Engineering Student with hands-on experience through internships at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software Issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Passionate about cloud technologies, AI/ML, software development, and solving real-world problems through technology. You can find out about me on <a href="https://nathonana.com/">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
+ A passionate Engineering Student with hands-on experience through internships at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Passionate about cloud technologies, AI/ML, software development, and solving real-world problems through technology. You can find out about me on <a href="https://nathonana.com/">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
 Bachelor's student at Carleton University studying Computer Science and Math, focusing on Artificial Intelligence and Machine Learning.
 </p>
 
@@ -31,8 +31,8 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 <!------------- MAIN --------------------->
 
 ## Professional Experience:
-- *Software Designer at **Caterpillar Inc** (Jan - Apr 2025)*
-- *Test Automation Engineer at **Ford Motor Company** (May - Dec 2024)*
+- *Software Designer Intern at **Caterpillar Inc** (Jan - Apr 2025)*
+- *Test Automation Engineer Intern at **Ford Motor Company** (May - Dec 2024)*
  
 
 <img align="right" width="500" alt="coding" src="https://github.com/rapha-pro/rapha-pro/blob/87ce6588128cb47173078b574f1974a8be5f78a7/programming.gif" />
