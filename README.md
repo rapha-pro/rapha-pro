@@ -7,7 +7,7 @@
 </div>
  <h6 align="center">Hiring?</h6>
 
-<h3 align="center">Let's Connect!</h3>
+<h3 align="center">Let's Connect</h3>
 <p align="center">
   <a href="https://linkedin.com/in/raphaelonana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphaël onana" height="30" width="40" /></a>
   <a href="https://twitter.com/rapha_pro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rapha_pro_" height="30" width="40" /></a>
