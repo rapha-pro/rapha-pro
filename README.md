@@ -5,9 +5,9 @@
  <div align="right"> <img src="https://komarev.com/ghpvc/?username=rapha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="rapha-pro" /> </div>
  <!-- <h3 align="center">Engineering Student</h3> -->
 </div>
- <h6 align="center">Hiring? you found Me!</h6>
+ <h6 align="center">Hiring?</h6>
 
-<h3 align="center">Let's Connect</h3>
+<h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/raphaelonana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raphaël onana" height="30" width="40" /></a>
   <a href="https://twitter.com/rapha_pro_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rapha_pro_" height="30" width="40" /></a>
