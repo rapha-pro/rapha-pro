@@ -5,7 +5,7 @@
  <div align="right"> <img src="https://komarev.com/ghpvc/?username=rapha-pro&label=Profile%20views&color=0e75b6&style=flat" alt="rapha-pro" /> </div>
  <!-- <h3 align="center">Engineering Student</h3> -->
 </div>
- <h6 align="center">Hiring?</h6>
+ <h6 align="center">hola y bienvenido!</h6>
 
 <h3 align="center">Let's Connect</h3>
 <p align="center">
@@ -16,11 +16,11 @@
 </p>
 <br />
 
-<a align="left" href="https://nathonana.com/"> <img src="https://github.com/rapha-pro/rapha-pro/blob/7f3086bf95063fee5764589f918e4317abcc57b9/background.png" > </a>
+<a align="left" href="https://raphaelonana.dev"> <img src="background.png" > </a>
 
 # I'm Raphaël Onana
 <p>
- A passionate Engineering Student with hands-on experience through internships at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Passionate about cloud technologies, AI/ML, software development, and solving real-world problems through technology. You can find out about me on <a href="https://nathonana.com/">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
+ A passionate Engineering Student with hands-on experience through internships at Fortune 500 Companies. With my journey beginning at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Continuing at Elections Canada and Toronto where I work as a Data Scientist. Passionate about cloud technologies, AI, Machine Learning, and solving real-world problems through technology. You can find out about me on <a href="https://raphaelonana.dev">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
 Bachelor's student at Carleton University studying Computer Science and Math, focusing on Artificial Intelligence and Machine Learning.
 </p>
 
@@ -31,6 +31,8 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 <!------------- MAIN --------------------->
 
 ## Professional Experience:
+- *Data Scientist Intern at **TD** (May 2026)*
+- *Junior Data Scientist, Part time at **Government of Canada** (Nov 2025 - April 2026)*
 - *Software Designer Intern at **Caterpillar Inc** (Jan - Apr 2025)*
 - *Test Automation Engineer Intern at **Ford Motor Company** (May - Dec 2024)*
  
@@ -85,6 +87,6 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 #### Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rapha04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raphaelonana) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rapha_pro_) 
 
-[my_website]: https://nathonana.com/
+[my_website]: https://raphaelonana.dev
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rapha_pro) 
