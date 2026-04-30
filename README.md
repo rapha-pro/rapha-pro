@@ -18,7 +18,7 @@
 
 <a align="left" href="https://raphaelonana.dev"> <img src="background.png" > </a>
 
-# I'm Raphaël Onana <img src="logo.svg" width="36" height="36" alt="Raphaël logo" align="absmiddle"/>
+# I'm Raphaël Onana <img src="logo.svg" width="36" height="36" alt="Raphaël logo" align="right"/>
 <p>
  A passionate Engineering Student with hands-on experience through internships at Fortune 500 Companies. With my journey beginning at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Continuing at Elections Canada and Toronto where I work as a Data Scientist. Passionate about cloud technologies, AI, Machine Learning, and solving real-world problems through technology. You can find out about me on <a href="https://raphaelonana.dev">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
 Bachelor's student at Carleton University studying Computer Science and Math, focusing on Artificial Intelligence and Machine Learning.
