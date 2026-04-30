@@ -18,7 +18,7 @@
 
 <a align="left" href="https://raphaelonana.dev"> <img src="background.png" > </a>
 
-# I'm Raphaël Onana
+# I'm Raphaël Onana <img src="logo.svg" width="36" height="36" alt="Raphaël logo" align="absmiddle"/>
 <p>
  A passionate Engineering Student with hands-on experience through internships at Fortune 500 Companies. With my journey beginning at Ford Motor Company working in test automation, building FNV Systems, debugging hardware and software issues, and building Jenkins pipelines; at Caterpillar Inc., contributing to embedded software development for autonomous drilling systems, and led the migration of Azure DevOps pipelines to GitHub actions. Continuing at Elections Canada and Toronto where I work as a Data Scientist. Passionate about cloud technologies, AI, Machine Learning, and solving real-world problems through technology. You can find out about me on <a href="https://raphaelonana.dev">my website</a>. Feel free to check out my repositories to see the projects I’ve been working on!
 Bachelor's student at Carleton University studying Computer Science and Math, focusing on Artificial Intelligence and Machine Learning.
@@ -31,13 +31,13 @@ Bachelor's student at Carleton University studying Computer Science and Math, fo
 <!------------- MAIN --------------------->
 
 ## Professional Experience:
-- *Data Scientist Intern at **TD** (May 2026)*
-- *Junior Data Scientist, Part time at **Government of Canada** (Nov 2025 - April 2026)*
-- *Software Designer Intern at **Caterpillar Inc** (Jan - Apr 2025)*
-- *Test Automation Engineer Intern at **Ford Motor Company** (May - Dec 2024)*
+- *Data Scientist at **TD**, (Internship 2026)*
+- *Junior Data Scientist, Part time at **Government of Canada**, (Part-time 2025 - 2026)*
+- *Software Designer at **Caterpillar Inc**, (Internship 2025)*
+- *Test Automation Engineer at **Ford Motor Company**, (Co-op 2024)*
  
 
-<img align="right" width="500" alt="coding" src="https://github.com/rapha-pro/rapha-pro/blob/87ce6588128cb47173078b574f1974a8be5f78a7/programming.gif" />
+<img align="right" width="500" alt="coding" src="./programming.gif" />
 
 ### Education
 - Currently enrolled in the BS Computer Science at **Carleton University** | **3rd** Year
