@@ -31,7 +31,7 @@
 
 ## Professional Experience
 - *Data Scientist at **TD**, (Internship 2026)*
-- *Junior Data Scientist, Part time at **Government of Canada**, (Part-time 2025 - 2026)*
+- *Junior Data Scientist at **Government of Canada**, (Part-time 2025 - 2026)*
 - *Software Designer at **Caterpillar Inc**, (Internship 2025)*
 - *Test Automation Engineer at **Ford Motor Company**, (Co-op 2024)*
  
