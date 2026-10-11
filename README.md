@@ -30,7 +30,7 @@
 <!------------- MAIN --------------------->
 
 ## Professional Experience
-- *Data Scientist at **TD**, (Internship 2026)*
+- *Data Scientist at **TD**, (Summer Internship 2026)*
 - *Junior Data Scientist at **Government of Canada**, (Part-time 2025 - 2026)*
 - *Software Designer at **Caterpillar Inc**, (Internship 2025)*
 - *Test Automation Engineer at **Ford Motor Company**, (Co-op 2024)*
@@ -42,7 +42,7 @@
 - Currently enrolled in the BS Computer Science at **Carleton University** specializing in AI/ML with a minor in Mathematics | **4th** Year
 
 - Fields of interests
-  - **AI/ML, Maths & Data Science, DevOps and Cloud**
+  - **AI/ML, Maths & Data Science, Quantum Computing, DevOps and Cloud**
 
 - School interests: **Calculus, Statistics, Linear Algebra, Physics**
 
